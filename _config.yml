@@ -6,7 +6,7 @@ relative_links:
   collections: true
 include:
   - README.md
-  - LICENSE.md
+  - COPYRIGHT.md
 
 title: Dialogues with a Machine
 description: Choose "Dialogues with a Machine" if it’s a narrative-driven work about a specific
