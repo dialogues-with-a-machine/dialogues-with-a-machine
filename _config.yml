@@ -1,5 +1,6 @@
 plugins:
   - jekyll-relative-links
+  - jekyll-seo-tag
 relative_links:
   enabled: true
   collections: true
@@ -8,4 +9,5 @@ include:
   - LICENSE.md
 
 title: Dialogues with a Machine
-description: Dialogues with a Machine
+description: Choose "Dialogues with a Machine" if it’s a narrative-driven work about a specific
+  but relatable machine, emphasizing personal or grounded dialogues.
